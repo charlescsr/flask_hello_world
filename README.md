@@ -1,1 +1,3 @@
-# flask_hello_world
+# Simple Hello World app using Flask
+
+## Steps
